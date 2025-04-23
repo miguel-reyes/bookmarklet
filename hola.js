@@ -1,3 +1,3 @@
 (function() {
-    alert('Starting script!');
+    alert('Starting script changing info!');
 })();
